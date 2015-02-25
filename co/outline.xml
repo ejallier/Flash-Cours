@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outline>
+ <l c="mnu_obj" u="Flash_1.html" t="Objectifs"/>
+ <b c="mnu_courseUa" u="Flash_2.html" t="Les outils de dessin">
+  <l c="mnu_intro" u="Flash_3.html" t="Introduction"/>
+  <l c="mnu_expUc" u="Flash_8.html" t="Traits et remplissage"/>
+  <l c="mnu_expUc" u="Flash_9.html" t="Modifications"/>
+  <l c="mnu_expUc" u="Flash_10.html" t="Pour aller plus loin"/>
+  <l c="mnu_practUc" u="Flash_11.html" t="Exercice : Exercices de dessin"/>
+ </b>
+ <b c="mnu_courseUa" u="Flash_4.html" t="Animation">
+  <l c="mnu_expUc" u="Flash_5.html" t="Concepts de base"/>
+  <l c="mnu_practUc" u="Flash_12.html" t="Exercice : Quizz"/>
+ </b>
+ <b c="mnu_courseUa" u="Flash_6.html" t="Les bannières publicitaires">
+  <l c="mnu_expUc" u="Flash_7.html" t="Les normes"/>
+ </b>
+</outline>
